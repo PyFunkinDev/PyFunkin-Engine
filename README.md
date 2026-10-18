@@ -58,8 +58,19 @@ pyfunkin/
 │       ├── Engine_icon.png
 │       ├── Engine_Icon_Black_Outline.png
 │       └── Engine_icon_logo_outline.png
+├── __init__.py                    # Package entry point & public API exports
 ├── core.py                        # Conductor, Constants, Signals, SongMetadata & Chart parser
 ├── atlas.py                       # CharacterData & 3-in-1 Atlas parsers (.xml, .txt, Animation.json)
+├── scoring.py                     # PBOT1 / WEEK7 / LEGACY Scoring, Judgements, Tallies & Ranks
+├── paths.py                       # Smart Asset Resolver (Mods -> Level -> Shared -> Preload, .webp/.png) & StageData
+├── mobile.py                      # All 5 Mobile Hitbox Schemes & Nanosecond PreciseInputManager
+├── modding.py                     # Hybrid Mod Loader (.py native scripts, .lua bridge, ScriptEvent)
+├── save.py                        # Preferences (auto-downscroll on mobile, 32-bit RAM mode), Save & LevelData
+├── audio.py                       # FunkinSound & VoicesGroup (split Voices-bf/dad.ogg sync & miss muting)
+├── graphics.py                    # FunkinCamera, FunkinSprite, HealthIcon, JudgementPopup & Countdown
+├── states.py                      # MusicBeatState, TitleState (bopping Engine_Logo.png), MainMenu, Freeplay, ResultState
+├── playstate.py                   # Full PlayState & Strumline gameplay controller
+├── main.py                        # Main entry point, FunkinMemory GC, FunkinDebugDisplay (FPS/RAM) & Self-Test
 └── README.md                      # Bilingual Documentation (EN / UA)
 ```
 
