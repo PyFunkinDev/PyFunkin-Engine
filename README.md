@@ -9,11 +9,23 @@
 **Легкий, кросплатформений рушій для Friday Night Funkin' на Python — створений для 32-бітних (ARMv7) та 64-бітних Android-смартфонів, ПК та миттєвого модингу без компіляції.**
 
 [![Developer](https://img.shields.io/badge/Developer-PyFunkinDev-007ACC?style=for-the-badge&logo=github)](https://github.com/PyFunkinDev)
+
 [![Python](https://img.shields.io/badge/Python-3.9%2B-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
-[![Platforms](https://img.shields.io/badge/Platforms-ARMv7%20(32--bit)%20%7C%20ARM64%20%7C%20PC-33CC66?style=for-the-badge)](#)
+
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-357EC7?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+
 [![Offline Size](https://img.shields.io/badge/100%25%20Offline%20Assets-~200%20MB-FF22AA?style=for-the-badge)](#)
 
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+
+
 </div>
+
+>[!WARNING]
+>**This project is in the first stage of development 🚧**, so it is not recommended to use it yet. The work is being carried out with all efforts 🛠. Stay tuned for updates 😀
+
+>[!NOTE]
+>**THIS PROJECT USES AI CODE.** If you don't like apps created by AI, that's okay. **(All application tests are done by human)**
 
 ---
 
@@ -80,3 +92,6 @@ pyfunkin/
 
 Created with ❤️ by **[PyFunkinDev](https://github.com/PyFunkinDev)**  
 *"Just a person. I wanted to make my own engine for FNF. Developer of PyFunkin Engine ☺️"*
+
+
+Contributor — **[EvgenPlay05](https://github.com/EvgenPlay05)**
